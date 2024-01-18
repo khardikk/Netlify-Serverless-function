@@ -22,6 +22,13 @@ button{
     border-radius: 10px;
 }
 
+#buttonContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 h1{
     color: #033043;
     font-size: 30px;
